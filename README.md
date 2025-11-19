@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+I'm Sara, an entrepreneurial generalist who now and then sits down to code something.
 
 <!--
 **zardan/zardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
